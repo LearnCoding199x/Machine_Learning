@@ -1,0 +1,6 @@
+spam_url = './enron1/spam/'
+ham_url = './enron1/ham/'
+url_mail_test = './test/'
+save_dict = './save.txt'
+list_ham = './list_ham.txt'
+list_spam = './list_spam.txt'
